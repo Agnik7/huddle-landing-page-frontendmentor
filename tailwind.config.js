@@ -16,7 +16,7 @@ export default {
       fontFamily:{
         "header": ["Poppins", "sans-serif"],
         "body": ["Open Sans", "sans-serif"],
-      }
+      },
     },
   },
   plugins: [],

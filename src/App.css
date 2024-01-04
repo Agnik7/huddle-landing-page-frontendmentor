@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.card:nth-child(1)
+{
+  background-image: url('./assets/images/icon-communities.svg');
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+.card:nth-child(2)
+{
+  background-image: url('./assets/images/icon-messages.svg');
+  background-repeat: no-repeat;
+  background-position: top left;
+}
